@@ -27,7 +27,7 @@ class HospitalManagementSystem:
         room_no = input("Enter patient room no: ")
 
         self.patients[patient_id] = [name, disease, bill, room_no]
-        print("Patient added successfully!")
+        print("New Patient added successfully!")
 
     def show_patient_info(self):
         patient_id = input("Enter patient ID: ")
