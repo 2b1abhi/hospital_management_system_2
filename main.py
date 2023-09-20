@@ -2,9 +2,9 @@ import json
 d= {
     "patient_id" : "123",
     "name" :"Abhinav",
-    "disease" : "fever",
+    "disease" : "cough",
     "bill"  : "250",
-    "room_no" : "12",
+    "room_no" : "13",
     }
 
 
